@@ -1,0 +1,21 @@
+{
+  "name": "atividade-01-desenv-web",
+  "version": "1.0.0",
+  "description": "Atividade 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JP-77-uni/atividade-01-desenv-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JP-77-uni/atividade-01-desenv-web/issues"
+  },
+  "homepage": "https://github.com/JP-77-uni/atividade-01-desenv-web#readme"
+}
